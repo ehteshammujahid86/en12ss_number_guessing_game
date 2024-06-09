@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "en12ss_number_guessing_game",
+  "version": "1.0.1",
+  "main": "num_guessing_game.js",
+  "type": "module",
+  "bin": "num_guessing_game.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EHTESHAM MUJAHID",
+  "license": "MIT",
+  "description": "A number Guessing game program"
+}
